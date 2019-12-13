@@ -17,3 +17,4 @@ a = fnptr();
 printf
 ("Result = %X\n", a);
 }
+ 
