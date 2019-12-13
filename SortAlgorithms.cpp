@@ -19,7 +19,7 @@ void Select( int v[],int tamanho){
 				indice=j;
 				aux=1;
 			}
-		}
+		} 
 		if(aux==1){
 			aux=v[i];
 			v[i]=v[indice];
